@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub Клиент</string>
+
+    <!-- Auth Screen -->
+    <string name="auth_title">Авторизация GitHub</string>
+    <string name="token_label">Персональный токен доступа</string>
+    <string name="sign_in_button">ВОЙТИ</string>
+    <string name="loading">Загрузка...</string>
+    <string name="invalid_token">Неверный токен. Проверьте и попробуйте снова.</string>
+    <string name="empty_token">Токен не может быть пустым</string>
+    <string name="network_error">Нет подключения к интернету. Проверьте сеть.</string>
+
+    <!-- Repositories List -->
+    <string name="repositories_title">Репозитории</string>
+    <string name="empty_repos">Репозитории не найдены</string>
+    <string name="retry">Повторить</string>
+
+    <!-- Repository Details -->
+    <string name="view_on_github">Открыть на GitHub</string>
+    <string name="stars">Звёзды</string>
+    <string name="forks">Вилки</string>
+    <string name="watchers">Наблюдатели</string>
+    <string name="readme">README</string>
+    <string name="no_readme">README не найден</string>
+</resources>
