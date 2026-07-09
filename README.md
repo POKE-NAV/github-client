@@ -12,13 +12,12 @@ Android-приложение для просмотра репозиториев 
   - README файл
 
 Технологический стек
-Язык - Kotlin 
-UI - Jetpack Compose + Material 3 
-Архитектура - MVVM + Clean Architecture 
-Сеть - Retrofit 2 + OkHttp 3 
-DI - Koin 
-Асинхронность - Kotlin Coroutines + Flow 
-Навигация - Jetpack Navigation Compose 
-Хранилище - SharedPreferences 
-Локализация - Android Resources (values/values-ru) 
-Минимальная версия - Android API 26 (Android 8.0) 
+- Язык - Kotlin 
+- UI - Jetpack Compose + Material 3 
+- Архитектура - MVVM + Clean Architecture 
+- Сеть - Retrofit 2 + OkHttp 3 
+- DI - Koin 
+- Асинхронность - Kotlin Coroutines + Flow 
+- Навигация - Jetpack Navigation Compose 
+- Хранилище - SharedPreferences 
+- Минимальная версия - Android API 26 (Android 8.0) 
